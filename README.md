@@ -1,3 +1,8 @@
+A simple ReactJS app, purpose of which is to store and manage various recipes.
+[json-server](https://github.com/typicode/json-server) was used as the database and [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) for styling.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
